@@ -1,0 +1,10 @@
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/model/GetCountryResponse.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/repository/CountryRepository.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/model/Currency.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/model/GetCountryRequest.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/config/WebServiceConfig.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/endpoint/CountryEndpoint.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/model/ObjectFactory.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/model/package-info.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/WsDemoApplication.java
+/Users/lingapsg/Desktop/blogs/ws-demo/ws-server/src/main/java/com/demo/ws/model/Country.java

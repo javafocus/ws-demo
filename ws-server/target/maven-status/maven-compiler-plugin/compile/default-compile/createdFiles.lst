@@ -1,0 +1,10 @@
+com/demo/ws/model/ObjectFactory.class
+com/demo/ws/model/Country.class
+com/demo/ws/WsDemoApplication.class
+com/demo/ws/endpoint/CountryEndpoint.class
+com/demo/ws/model/Currency.class
+com/demo/ws/repository/CountryRepository.class
+com/demo/ws/model/GetCountryResponse.class
+com/demo/ws/model/package-info.class
+com/demo/ws/config/WebServiceConfig.class
+com/demo/ws/model/GetCountryRequest.class
