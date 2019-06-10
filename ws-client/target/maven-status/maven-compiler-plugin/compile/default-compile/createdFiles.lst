@@ -1,0 +1,11 @@
+com/demo/ws/client/config/WsClientConfig.class
+com/demo/ws/client/api/CountryApi.class
+com/demo/ws/client/model/Country.class
+com/demo/ws/client/WsClientApplication.class
+com/demo/ws/client/client/CountryWSClient.class
+com/demo/ws/countries/Country.class
+com/demo/ws/countries/package-info.class
+com/demo/ws/countries/GetCountryRequest.class
+com/demo/ws/countries/ObjectFactory.class
+com/demo/ws/countries/Currency.class
+com/demo/ws/countries/GetCountryResponse.class
